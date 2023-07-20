@@ -1,0 +1,11 @@
+.contact h1{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.contact p{
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
